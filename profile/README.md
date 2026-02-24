@@ -35,6 +35,12 @@
     <td>hellobbn, mujianwu, snnbyyds</td>
   </tr>
   <tr align=center>
+    <td><a href="https://github.com/QRD-Development/android_device_qcom_lahaina">Lahaina for arm64</a></td>
+    <td>AviumUI (based on LineageOS)</td>
+    <td>Work in Progress</td>
+    <td>uwu-gl</td>
+  </tr>
+  <tr align=center>
     <td><a href="https://github.com/QRD-Development/twrp_device_qcom_lahaina">Lahaina for arm64</a></td>
     <td>TWRP</td>
     <td>Maintaining</td>
